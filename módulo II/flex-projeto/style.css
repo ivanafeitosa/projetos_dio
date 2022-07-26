@@ -23,8 +23,7 @@ div img {
     display: flex;
     max-width: 992px;
     margin: auto;
-    width: 100%;
-    border: 1px solid red;
+    width: 100%;    
     min-width: 320px;
     
 }
@@ -61,8 +60,7 @@ header .menu {
 }
 
 .apresentacao .texto-apresentacao {
-    min-height: 200px;
-    border: 1px solid red;        
+    min-height: 200px;           
 }
 
 .texto-apresentacao h1 {
