@@ -11,7 +11,7 @@ body {
 }
 
 img {
-	max-width: 600px;
+	max-width: 600px;	
 	border-radius: 30px;
 }
 
@@ -29,6 +29,7 @@ button {
 	margin: 20px 0;
 	cursor: pointer;
 	transition: all 0.5s ease-in-out;
+	border-radius: 10px;
 }
 
 button:hover {
